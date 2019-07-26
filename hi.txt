@@ -1,5 +1,0 @@
-print(""say hi)
-jack
-tom
-joseph
-lucy
